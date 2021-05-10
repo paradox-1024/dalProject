@@ -1,0 +1,39 @@
+Tom kicks the ball for a distance of 165.9865941370671 pixels and direction 200.57270647495062 degree. Ball reflected. Ball is at (100.0,41.673023662201906) 
+
+Bob kicks the ball for a distance of 180.28604799750002 pixels and direction 192.38882458291113 degree. Ball reflected. Ball is at (100.0,2.993584993892277) 
+
+Tom kicks the ball for a distance of 96.77855279192372 pixels and direction 21.40738009917137 degree. Ball not reflected. Ball is at (190.10168521454,38.31743815289954) 
+
+Bob kicks the ball for a distance of 154.61969698253296 pixels and direction 177.12998474572893 degree. Ball not reflected. Ball is at (35.675928127422424,46.05928825742046) 
+
+Tom kicks the ball for a distance of 138.2552083288813 pixels and direction 7.515639834477552 degree. Ball not reflected. Ball is at (172.7434129414869,64.14262967455288) 
+
+Bob kicks the ball for a distance of 105.70755582929854 pixels and direction 324.64039795009853 degree. Ball reflected. Ball is at (172.7434129414869,2.9690011222295922) 
+
+Tom kicks the ball for a distance of 198.14006043354914 pixels and direction 111.89628052077298 degree. Ball not reflected. Ball is at (98.85152578657707,186.81532978096723) 
+
+Bob kicks the ball for a distance of 119.11240116092068 pixels and direction 334.92295399405054 degree. Ball reflected. Ball is at (98.85152578657707,136.33113498499353) 
+
+Tom kicks the ball for a distance of 53.74177175888744 pixels and direction 313.44668581694486 degree. Ball not reflected. Ball is at (135.808630367466,97.31382532912937) 
+
+Bob kicks the ball for a distance of 66.51478834139976 pixels and direction 254.5824707018958 degree. Ball not reflected. Ball is at (118.1256031000741,33.19263059008942) 
+
+Tom kicks the ball for a distance of 56.3275970889922 pixels and direction 63.726571748003316 degree. Ball not reflected. Ball is at (143.05931725416508,83.70112583892777) 
+
+Bob kicks the ball for a distance of 146.16063402865004 pixels and direction 171.34229867750707 degree. Ball reflected. Ball is at (143.05931725416508,105.70283549983972) 
+
+Tom kicks the ball for a distance of 83.44006896563074 pixels and direction 197.76040584216412 degree. Ball not reflected. Ball is at (63.595967294509805,80.25050511186603) 
+
+Bob kicks the ball for a distance of 169.54615339974026 pixels and direction 129.2407992966671 degree. Ball reflected. Ball is at (63.595967294509805,211.56302357842173) 
+
+Tom kicks the ball for a distance of 20.16902507640723 pixels and direction 283.2646094061643 degree. Ball not reflected. Ball is at (68.22372141575798,191.93209226261263) 
+
+Bob kicks the ball for a distance of 182.48105757357155 pixels and direction 256.25718908360994 degree. Ball not reflected. Ball is at (24.872789067880696,14.675123322774056) 
+
+Tom kicks the ball for a distance of 153.71110939524507 pixels and direction 130.22450648319915 degree. Ball reflected. Ball is at (24.872789067880696,132.03661179566876) 
+
+Bob kicks the ball for a distance of 115.11616521906683 pixels and direction 154.27984656332316 degree. Ball reflected. Ball is at (24.872789067880696,181.99426540723914) 
+
+Tom kicks the ball for a distance of 25.11945223432981 pixels and direction 241.5350960231191 degree. Ball not reflected. Ball is at (12.900346722930413,159.91152316698242) 
+
+Bob kicks the ball for a distance of 18.21694153404372 pixels and direction 350.74463038496503 degree. Ball not reflected. Ball is at (30.880127320887325,156.9816002150775) 
