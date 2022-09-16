@@ -1,2 +1,2 @@
-# dalProject
+# myProject
 Academic/personal  project
