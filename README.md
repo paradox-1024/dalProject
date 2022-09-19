@@ -1,2 +1,4 @@
-# myProject
-Academic/personal  project
+# My projects of Dalhousie University
+
+## Academic/Personal/Group  Project
+
