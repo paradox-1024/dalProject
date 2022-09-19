@@ -1,2 +1,2 @@
 # myProject
-Academic/personal  project
+Academic group project
