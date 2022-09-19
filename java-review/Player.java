@@ -29,7 +29,7 @@ public class Player {
         double dy = Math.sin(rr) * d;
         double x2 = x1 + dx;
         double y2 = y1 + dy;
-//out of top bound
+        //out of top bound
         if (f.getX() <= x2 + 0.00000001 && x2 <= f.getX() + f.getWidth() + 0.00000001 && y2 < f.getY() + 0.00000001) {
             y2 = y1;
             b.setX(x2);
