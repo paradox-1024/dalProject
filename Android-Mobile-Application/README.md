@@ -1,6 +1,6 @@
 # Group Project of CSCI4146 Team11
 
-## Group members: Wang Yanfei, Balakumar Nethra, Chauhan Pranav , Lad Yashvi , Lee Minsu
+## Group members: Balakumar Nethra, Chauhan Pranav, Lad Yashvi, Lee Minsu, Wang Yanfei,
 
 ## Project Description:
 An android mobile application named 'PlaceToLive'. 
