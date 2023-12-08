@@ -1,4 +1,4 @@
-# My projects of Dalhousie University
+# My Honour projects of Dalhousie University-Yanfei Wang
 
-## Academic/Personal/Group  Project
+## Honour Thesis - Data Augmentation Approaches on 3D U-Net Model for Brain Tumor Segmentation
 
