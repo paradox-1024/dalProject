@@ -1,0 +1,5 @@
+Honour Thesis - Data Augmentation Approaches on 3D U-Net Model for Brain Tumor Segmentation
+
+- The goal of this study is to evaluate the augmentation techniques for brain tumor segmentation, utilizing the Brats 2020 dataset as input and applying the standard 3D U-Net model. 
+
+- Augmentation techniques such as contrast adjustment, flipping, rotation, brightness alteration, small pixel dropout, gaussian noise, and swirling have been applied to see their effect on the model's accuracy.
